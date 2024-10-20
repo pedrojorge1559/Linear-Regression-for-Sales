@@ -19,6 +19,4 @@ O `auto_arima` é uma função da biblioteca `pmdarima` que automatiza o process
 
 - **Tratamento de Sazonalidade**: O `auto_arima` também pode lidar com dados sazonais, permitindo que o usuário especifique a periodicidade da sazonalidade (por exemplo, mensal, trimestral), o que é essencial para muitos conjuntos de dados de vendas.
 
-- **Facilidade de Uso**: Com uma interface simples, o `auto_arima` torna a modelagem de séries temporais acessível mesmo para aqueles que não têm experiência prévia em modelagem estatística.
-
 Ao utilizar o `auto_arima`, conseguimos otimizar o processo de modelagem, garantindo que o modelo ARIMA escolhido seja o mais adequado para os dados de vendas, resultando em previsões mais precisas e confiáveis.
